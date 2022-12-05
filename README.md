@@ -11,3 +11,8 @@ DynamoDB table active in AWS.
 Setup codecommit for project.
 
 ![image](https://user-images.githubusercontent.com/117186369/205608961-db5e9a6b-efbe-499d-b793-d8d94b362ff3.png)
+
+Added codebuild to pipeline.
+
+![image](https://user-images.githubusercontent.com/117186369/205614467-47b6dd49-d14c-4195-b41d-45f8e8fc6e05.png)
+
